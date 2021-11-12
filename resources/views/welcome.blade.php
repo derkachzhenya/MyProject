@@ -10,6 +10,7 @@
   
   <meta name="yandex-verification" content="b71ac566e90cd3ad" />
   
+  
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122639346-1"></script>
 <script>
